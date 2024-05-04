@@ -1,6 +1,6 @@
-## Jupiter Swap Widget : 1 Widget to have the: Best Price, Best UX, Best Tokens and have Access to all liquidity on Solana
+## Pluto ZeroSwap Widget : 1 Widget to have the: Best Price, Best UX, Best Tokens and have Access to all liquidity on Solana
 
-A widget that can be imported in any project to give it the power to Swap any token powered By Jupiter Aggregator.
+A widget that can be imported in any project to give it the power to Swap any token powered By Solflare Aggregator.
 
 Under the hood we use 
 
